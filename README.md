@@ -31,7 +31,7 @@ Per aquest exemple s’ha optat per una solució lleugera i sense frameworks, am
 
 ### Instal·lar PHP a Windows
 
-Podem descarregar PHP des de la web oficial: PHP Windows
+Podem descarregar PHP des de la web oficial.
 
 Ens descarreguem l’última versió disponible en format `.zip` (per exemple, PHP 8.5.4), preferiblement la versió **Non Thread Safe**, ja que és la més recomanada.
 
@@ -63,7 +63,7 @@ Si tot ha anat bé, hauria d’aparèixer la versió de PHP instal·lada.
 
 Tot i que no és necessari, es recomana treballar amb control de versions.
 
-Podem descarregar Git des de la web oficial: Git Windows
+Podem descarregar Git des de la web oficial.
 
 ---
 
