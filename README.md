@@ -69,24 +69,22 @@ Podem descarregar Git des de la web oficial.
 
 ## Creació del projecte
 
-Crearem una carpeta per començar el projecte:
+Crearem una carpeta on començar el nostre projecte en aquest cas (`php-lang-demo`).
 
 ```bash
 mkdir php-lang-demo
 cd php-lang-demo
 ```
 
-Inicialitzem el repositori Git:
+Un cop fet així ens dirigim a la carpeta i obrirem la terminal i iniciem també el projecte de git
+amb la següent comanda:
 
 ```bash
 git init
 ```
 
-Creem el punt d’entrada de l’aplicació:
+Per últim crearem el punt d’entrada de la nostra aplicació que será el arxiu (`index.php`)
 
-```bash
-type nul > index.php
-```
 
 ---
 
@@ -193,7 +191,6 @@ git commit -m "Base PHP project with language detection"
 En un escenari real, aquest punt de partida es podria ampliar amb:
 
 * Fitxers de traducció externs
-* Tests automatitzats
 * Integració amb frameworks com Laravel
 
 ---
